@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @emir01b
+- 👀 I’m Software Engineer ...
+- 🌱 I’m working on the drone and plane ...
+- 📫 How to reach me 00.emir.01@gmail.com ...
+
+<!---
+emir01b/emir01b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
