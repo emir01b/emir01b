@@ -17,7 +17,7 @@ Yazılım Mühendisliği mezunuyum (Fırat Üniversitesi, 2026). LLM tabanlı uy
 
 ### 💼 Deneyim
 
-**Bursiyer Araştırmacı — TÜBİTAK BİLGEM** · Kas 2025 – Halen
+**Bursiyer Araştırmacı — TÜBİTAK BİLGEM** · Kas 2025 – Halen<br>
 Türkçe doğal dil işleme alanında model iyileştirme ve çıktı kalitesinin artırılmasına yönelik çalışmalar.
 
 **Yazılım Geliştirme Stajyeri — Intellium** · Tem 2025 – Oca 2026
@@ -40,8 +40,8 @@ Türkçe doğal dil işleme alanında model iyileştirme ve çıktı kalitesinin
 
 ### 📄 Yayınlar & Bildiriler
 
-A. Tamer, Ü. Demir, **E. Gündoğdu**, M. K. Kindar, A. E. M. Eltayeb, M. Baykara,
-*"Kolmogorov-Arnold Networks for Elephant and Mice Flow Management in Software-Defined Networks"*,
+A. Tamer, Ü. Demir, **E. Gündoğdu**, M. K. Kindar, A. E. M. Eltayeb, M. Baykara,<br>
+*"Kolmogorov-Arnold Networks for Elephant and Mice Flow Management in Software-Defined Networks"*,<br>
 2nd International Symposium on AI-Driven Engineering Systems (ISADES 2026), Haziran 2026 — Sözlü bildiri.
 
 > **Rolüm:** 713 bin+ akış kaydı içeren NIMS veri setinin ön işlenmesi (hibrit etiketleme, IQR winsorization) ve KAN sınıflandırıcısının PyTorch ile eğitimi. Model, canlı Mininet/OS-Ken testlerinde **%98,8 precision** ve ~10,5 sn ortalama tespit süresine ulaştı.
@@ -50,8 +50,8 @@ A. Tamer, Ü. Demir, **E. Gündoğdu**, M. K. Kindar, A. E. M. Eltayeb, M. Bayka
 
 ### ⚙️ Teknik Yetkinlikler
 
-**AI / LLM:** PyTorch · LLM entegrasyonu (Ollama, LM Studio) · bağlam yönetimi & prompt tasarımı · Whisper/TTS · OpenCV · Open3D
-**Diller & Web:** Python · JavaScript · C# · React · Node.js/Express · FastAPI · PostgreSQL · SQLite
+**AI / LLM:** PyTorch · LLM entegrasyonu (Ollama, LM Studio) · bağlam yönetimi & prompt tasarımı · Whisper/TTS · OpenCV · Open3D<br>
+**Diller & Web:** Python · JavaScript · C# · React · Node.js/Express · FastAPI · PostgreSQL · SQLite<br>
 **Diğer:** Git · Docker · Linux · MAVLink/pymavlink · Unity & Meta XR SDK · Arduino/C++
 
 ![My Skills](https://skillicons.dev/icons?i=python,pytorch,javascript,react,nodejs,fastapi,cs,postgres,sqlite,docker,linux,git&perline=6)
