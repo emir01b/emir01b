@@ -6,7 +6,7 @@
 
 ### 🧠 Hakkımda
 
-Yazılım Mühendisliği mezunuyum (Fırat Üniversitesi, 2026). LLM tabanlı uygulamalar ve Türkçe doğal dil işleme üzerine çalışıyorum; şu anda **TÜBİTAK BİLGEM**'de bursiyer araştırmacıyım.
+Yazılım Mühendisliği mezunuyum (Fırat Üniversitesi, 2026). LLM tabanlı uygulamalar ve Türkçe doğal dil işleme üzerine çalışıyorum; **TÜBİTAK BİLGEM**'de araştırmacı bursiyer olarak görev aldım.
 
 - 🤖 Yerel (on-premise) LLM entegrasyonu, model çıktı kalitesi ve uçtan uca AI ürün geliştirme odaklı çalışıyorum
 - 🧩 Kurumsal bir chatbot ürününde geliştirdiğim bağlam sıkıştırma katmanıyla token kullanımında **%80'e varan tasarruf** sağladım
