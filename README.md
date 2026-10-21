@@ -17,7 +17,7 @@ Yazılım Mühendisliği mezunuyum (Fırat Üniversitesi, 2026). LLM tabanlı uy
 
 ### 💼 Deneyim
 
-**Bursiyer Araştırmacı — TÜBİTAK BİLGEM** · Kas 2025 – Halen<br>
+**Bursiyer Araştırmacı — TÜBİTAK BİLGEM** · Kas 2025 – Tem 2026
 Türkçe doğal dil işleme alanında model iyileştirme ve çıktı kalitesinin artırılmasına yönelik çalışmalar.
 
 **Yazılım Geliştirme Stajyeri — Intellium** · Tem 2025 – Oca 2026
